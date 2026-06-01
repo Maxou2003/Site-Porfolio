@@ -28,7 +28,7 @@ const About = () => {
           </div>
 
           <p className="column-description">
-            Actuellement étudiant en ingénierie à <strong>Polytech Angers</strong>, je me spécialise en développement logiciel et en cybersécurité. Mon cursus a été enrichi par un semestre à la <strong>Wrocław University of Science and Technology</strong> en Pologne, consolidant mes compétences techniques et ma vision internationale.
+            Actuellement étudiant en ingénierie à <a href="https://polytech-angers.fr/fr/index.html/" target="_blank" rel="noopener noreferrer"><strong>Polytech Angers</strong></a>, je me spécialise en développement logiciel et en cybersécurité. Mon cursus a été enrichi par un semestre à la <a href="https://pwr.edu.pl/en/" target="_blank" rel="noopener noreferrer"><strong>Wrocław University of Science and Technology</strong></a> en Pologne, consolidant mes compétences techniques et ma vision internationale.
           </p>
         </div>
 
@@ -48,7 +48,7 @@ const About = () => {
           </div>
 
           <p className="column-description">
-            En contrat de professionnalisation au sein de l'entreprise <strong>6TM</strong>, je prends part activement à la maintenance et à l'évolution de la solution applicative <strong>Seenaps</strong>. Cette immersion me permet d'évoluer au cœur d'architectures web complexes et d'acquérir les réflexes de production d'un projet d'envergure.
+            En contrat de professionnalisation au sein de l'entreprise <a href="https://www.6tm.com/" target="_blank" rel="noopener noreferrer"><strong>6TM</strong></a>, je prends part activement à la maintenance et à l'évolution de la solution applicative <a href="https://www.seenaps.com/" target="_blank" rel="noopener noreferrer"> <strong>Seenaps</strong></a>. Cette immersion me permet d'évoluer au cœur d'architectures web complexes et d'acquérir les réflexes de production d'un projet d'envergure.
           </p>
         </div>
 
