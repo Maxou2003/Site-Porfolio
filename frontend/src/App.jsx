@@ -7,7 +7,7 @@ import CV from './components/CV';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import './App.css';
-import { Analytics } from "@vercel/analytics/next";
+import { Analytics } from "@vercel/analytics/react";
 
 function App() {
   const [githubUser, setGithubUser] = useState(null);
