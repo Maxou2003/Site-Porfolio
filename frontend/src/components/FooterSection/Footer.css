@@ -90,6 +90,7 @@
 /* --- CORPS DE LA MODALE --- */
 .modal-body {
   padding: 0 2.5rem 2.5rem;
+  overflow-y: scroll;
 }
 
 .legal-item {
