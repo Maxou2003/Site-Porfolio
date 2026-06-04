@@ -1,11 +1,11 @@
 import { useState, useEffect } from 'react';
-import Navbar from './components/Navbar';
-import Header from './components/Header';
-import About from './components/About';
-import Projects from './components/Projects';
-import CV from './components/CV';
-import Contact from './components/Contact';
-import Footer from './components/Footer';
+import Navbar from './components/Navbar/Navbar';
+import Header from './components/HeaderSection/Header';
+import About from './components/AboutSection/About';
+import Projects from './components/ProjectsSection/Projects';
+import CV from './components/CvSection/CV';
+import Contact from './components/ContactSection/Contact';
+import Footer from './components/FooterSection/Footer';
 import './App.css';
 import { Analytics } from "@vercel/analytics/react";
 
